@@ -34,3 +34,6 @@
         <img
             src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"></a>
 </p>
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018)](https://solved.ac/kimjinhyeon1018/)
