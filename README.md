@@ -7,12 +7,19 @@
 </p>
 <br>
 
-<h2 align="center">📚Tech Stack📚</h2>
+<h2 align="center">📖Ready now📖</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/C-4169E1?style=flat-square&logo=c&logoColor=white">
+</p><br>
+
+<h2 align="center">📚Learning now📚</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-FF4500?style=flat-square&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-4169E1?style=flat-square&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white">
 </p><br>
+
+
 
 <h2 align="center">🤩Follow Me!🤩</h2>
 <p align="center">
