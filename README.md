@@ -3,9 +3,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kim%20Jinhyeon&fontSize=100&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <h1 align="center">❤️Hi, My name is Jinhyeon!❤️</h1>
 <h3 align="center">My dream is to be a software developer and I am attending Gyeongbuk Software High School.<br>
-"Do not try to be original, just try to be good."</h3>
+"Do not try to be original, just try to be good."</h3><br>
+<p>
+    <ul>
+        <li><h5>🖊️I’m currently learning : C, HTML, CSS, JavaScript</h5></li>
+        <li><h5>🤟My hobby : </h5></li>
+        <li><h5>🖊️I’m currently learning : C, HTML, CSS, JavaScript</h5></li>
+        <li><h5>🖊️I’m currently learning : C, HTML, CSS, JavaScript</h5></li>
+    </ul>    
+</p>
 
-<h2 align="center">📖Ready now📖</h2>
+<h2 align="center">📖Ready now📖</h2> 
 <p align="center">
 <img src="https://img.shields.io/badge/C-4169E1?style=flat-square&logo=c&logoColor=white">
 </p><br>
