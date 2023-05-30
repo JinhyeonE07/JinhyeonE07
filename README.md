@@ -3,3 +3,5 @@
 <h3>My dream is to be a software developer and I am attending Gyeongbuk Software High School.</h3>
 <br>
 <h2>My stack📚</h2>
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=HTML5&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
