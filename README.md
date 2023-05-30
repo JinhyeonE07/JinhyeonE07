@@ -13,7 +13,7 @@
 </p>
 
 <h2 align="center">🏫School🏫</h2>
-<img src="https://github.com/JinhyeonE07/JinhyeonE07/assets/133763659/2c6b01b8-d191-4000-a79e-abba5fb3914f">
+<img src="https://github.com/JinhyeonE07/JinhyeonE07/assets/133763659/c67c16a1-605a-43b4-86fc-316f35d2b998">
 <h2 align="center">📖Ready now📖</h2> 
 <p align="center">
 <img src="https://img.shields.io/badge/C-4169E1?style=flat-square&logo=c&logoColor=white">
@@ -36,4 +36,5 @@
 </p>
 <br>
 <h2 align="center">Stat</h2>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018)](https://solved.ac/kimjinhyeon1018/)
