@@ -1,4 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinhyeonE07&count_bg=%23214488&title_bg=%231856CA&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 <h1 align="center">❤️Hi, My name is Jinhyeon!❤️</h1>
 <p>
 <h3 align="center">My dream is to be a software developer and I am attending Gyeongbuk Software High School.</h3>
@@ -14,6 +16,7 @@
 
 <h2 align="center">🤩Follow Me!🤩</h2>
 <p align="center">
-    <a href="https://www.instagram.com/hyeon._.2007/"><img
+    <a href="https://www.instagram.com/hyeon._.2007/">
+        <img
             src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"></a>
 </p>
