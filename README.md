@@ -14,9 +14,7 @@
 </p>
 
 <h2 align="center">🏫School🏫</h2>
-<center>
 <img src="https://github.com/JinhyeonE07/JinhyeonE07/assets/133763659/2c6b01b8-d191-4000-a79e-abba5fb3914f">
-</center>
 <h2 align="center">📖Ready now📖</h2> 
 <p align="center">
 <img src="https://img.shields.io/badge/C-4169E1?style=flat-square&logo=c&logoColor=white">
