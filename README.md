@@ -1,5 +1,4 @@
-<h1>Kim Jinhyeon</h1>
-<hr>
+Kim Jinhyeon
 <a href="https://www.instagram.com/hyeon._.2007/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square">
 </a>
