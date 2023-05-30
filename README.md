@@ -2,10 +2,8 @@
 <br>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kim%20Jinhyeon&fontSize=100&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <h1 align="center">❤️Hi, My name is Jinhyeon!❤️</h1>
-<p>
-<h3 align="center">My dream is to be a software developer and I am attending Gyeongbuk Software High School.</h3>
-</p>
-<br>
+<h3 align="center">My dream is to be a software developer and I am attending Gyeongbuk Software High School.<br>
+"Do not try to be original, just try to be good."</h3>
 
 <h2 align="center">📖Ready now📖</h2>
 <p align="center">
