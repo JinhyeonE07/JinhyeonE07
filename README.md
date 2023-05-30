@@ -6,10 +6,9 @@
 "Do not try to be original, just try to be good."</h3><br>
 <p>
     <ul>
+        <li><h5>✨My desired job : SoftWare developer</h5></li>
         <li><h5>🖊️I’m currently learning : C, HTML, CSS, JavaScript</h5></li>
         <li><h5>🤟My hobby : Exercise, coding, board games and more</h5></li>
-        <li><h5>🖊️I’m currently learning : C, HTML, CSS, JavaScript</h5></li>
-        <li><h5>🖊️I’m currently learning : C, HTML, CSS, JavaScript</h5></li>
     </ul>    
 </p>
 
