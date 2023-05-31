@@ -40,11 +40,12 @@
 </p><br>
 
 <h2 align="center">🤩Stats🤩</h2>
-<p align="cente">
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=JinhyeonE07&show_icons=true&theme=github_dark">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018"
         alt="https://solved.ac/kimjinhyeon1018/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinhyeonE07&layout=compact&theme=tokyonight">
+    <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinhyeonE07&layout=compact&theme=tokyonight">
 </p>
 <br>
 
@@ -56,4 +57,3 @@
     <br>
     <img src="https://img.shields.io/badge/kjh101807@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </p>
-
