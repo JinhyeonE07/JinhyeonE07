@@ -35,9 +35,10 @@
 </p><br>
 
 <h2 align="center">🤩Stats🤩</h2>
-
-![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api?username=JinhyeonE07&show_icons=true&theme=github_dark)
-[![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018)](https://solved.ac/kimjinhyeon1018/)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JinhyeonE07&show_icons=true&theme=github_dark">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018" alt="https://solved.ac/kimjinhyeon1018/">
+    </p>
 <br>
 
 <h2 align="center">📞How to contect📞</h2>
