@@ -20,7 +20,7 @@
 
 <h2 alig?n="center">🏫School🏫</h2>
 <img src="https://github.com/JinhyeonE07/JinhyeonE07/assets/133763659/50d3f11a-76c3-49a2-ab05-88fb4b8221af"
-     style="display: block; margin: 0 auto; width:50%">
+    style="display: block; margin: 0 auto; width:50%">
 <h2 align="center">📖Ready now📖</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/C-4169E1?style=flat-square&logo=c&logoColor=white">
@@ -35,13 +35,16 @@
 
 <h2 align="center">🤩Stats🤩</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinhyeonE07&show_icons=true&theme=github_dark)
+![Anurag's GitHub
+stats](https://github-readme-stats.vercel.app/api?username=JinhyeonE07&show_icons=true&theme=github_dark)
 [![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018)](https://solved.ac/kimjinhyeon1018/)
 <br>
 
-<h2 align="center">🤩Follow Me!🤩</h2>
+<h2 align="center">📞How to contect📞</h2>
 <p align="center">
     <a href="https://www.instagram.com/hyeon._.2007/">
         <img
             src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"></a>
+    <br>
+    <img src="https://img.shields.io/badge/kjh101807@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </p>
