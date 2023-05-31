@@ -19,7 +19,9 @@
 </p>
 
 <h2 align="center">🏫School🏫</h2>
-<img src="https://github.com/JinhyeonE07/JinhyeonE07/assets/133763659/d88d1496-2ef0-4a3c-9d57-0de43176db4e">
+<p align="center">
+<img src="https://github.com/JinhyeonE07/JinhyeonE07/assets/133763659/1cc45f34-a517-43da-80df-75308e6ecf33"width="50%">
+    </p>
 <h2 align="center">📖Ready now📖</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/C-4169E1?style=flat-square&logo=c&logoColor=white">
@@ -34,8 +36,7 @@
 
 <h2 align="center">🤩Stats🤩</h2>
 
-![Anurag's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=JinhyeonE07&show_icons=true&theme=github_dark)
+![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api?username=JinhyeonE07&show_icons=true&theme=github_dark)
 [![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018)](https://solved.ac/kimjinhyeon1018/)
 <br>
 
