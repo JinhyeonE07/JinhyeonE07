@@ -19,7 +19,7 @@
 </p>
 
 <h2 align="center">🏫School🏫</h2>
-<img src="https://github.com/JinhyeonE07/JinhyeonE07/assets/133763659/c67c16a1-605a-43b4-86fc-316f35d2b998">
+<img src="https://github.com/JinhyeonE07/JinhyeonE07/assets/133763659/329f55d7-aa46-4b20-94a5-1bbcc30f6b10">
 <h2 align="center">📖Ready now📖</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/C-4169E1?style=flat-square&logo=c&logoColor=white">
@@ -34,8 +34,8 @@
 
 <h2 align="center">🤩Stats🤩</h2>
 
-[![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018)](https://solved.ac/kimjinhyeon1018/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinhyeonE07&show_icons=true&theme=github_dark)
+[![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018)](https://solved.ac/kimjinhyeon1018/)
 <br>
 
 <h2 align="center">🤩Follow Me!🤩</h2>
