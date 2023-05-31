@@ -40,12 +40,13 @@
 </p><br>
 
 <h2 align="center">🤩Stats🤩</h2>
-<p align="center">
+<p align="cente">
     <img src="https://github-readme-stats.vercel.app/api?username=JinhyeonE07&show_icons=true&theme=github_dark">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018"
         alt="https://solved.ac/kimjinhyeon1018/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinhyeonE07&layout=compact&theme=tokyonight">
+    
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinhyeonE07&layout=compact&theme=tokyonight">
 <br>
 
 <h2 align="center">📞How to contect📞</h2>
