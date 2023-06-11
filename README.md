@@ -37,6 +37,7 @@
     <img src="https://img.shields.io/badge/HTML5-FF4500?style=flat-square&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-4169E1?style=flat-square&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/Dart-0B2161?style=flat-square&logo=dart&logoColor=white">
     <img src="https://img.shields.io/badge/Flutter-0080FF?style=flat-square&logo=flutter&logoColor=white">
 </p><br>
