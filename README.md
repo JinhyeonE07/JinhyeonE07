@@ -3,7 +3,7 @@
 <br>
 <p align="center">
     <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kim%20Jinhyeon&fontSize=100&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62">
+        src="https://github.com/JinhyeonE07/JinhyeonE07/assets/133763659/4ac7af2c-838b-4820-95ae-a5832236de8d">
 </p>
 <h1 align="center">❤️Hi, My name is Jinhyeon!❤️</h1>
 <h3 align="center">My dream is to be a software developer and I am attending Gyeongbuk Software High School.<br>
