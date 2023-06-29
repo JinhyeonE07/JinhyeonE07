@@ -3,7 +3,7 @@
 <br>
 <p align="center">
     <img
-        src="https://github.com/JinhyeonE07/JinhyeonE07/assets/133763659/4ac7af2c-838b-4820-95ae-a5832236de8d">
+        src="https://github.com/JinhyeonE07/JinhyeonE07/assets/133763659/64122646-678d-4757-adbe-81883526b36c">
 </p>
 <h1 align="center">❤️Hi, My name is Jinhyeon!❤️</h1>
 <h3 align="center">My dream is to be a software developer and I am attending Gyeongbuk Software High School.<br>
