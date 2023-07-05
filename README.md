@@ -5,7 +5,7 @@
     <img
         src="https://github.com/JinhyeonE07/JinhyeonE07/assets/133763659/64122646-678d-4757-adbe-81883526b36c">
 </p>
-<h1 align="center">❤️Hi, My name is Jinhyeon!❤️</h1>
+<h1 align="center">Hi, My name is Jinhyeon!</h1>
 <h3 align="center">My dream is to be a software developer and I am attending Gyeongbuk Software High School.<br>
     "Do not try to be original, just try to be good."</h3><br>
 <p>
