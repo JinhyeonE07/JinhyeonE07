@@ -3,7 +3,6 @@
 </header>
 
 <body>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018">
     <a href="https://www.instagram.com/hyeon._.2007">
         <p>
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -16,6 +15,8 @@
     <img src="https://img.shields.io/badge/kjh101807@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </p>
     <p>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018">
+        <br>
         👋<strong>Hello, I am a student developer who dreams of becoming a full-stack developer!</strong>🚀
     <ul>
         <li>
