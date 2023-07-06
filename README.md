@@ -38,6 +38,9 @@
 </body>
 <footer>
     <p>
-         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018">
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api?username=JinhyeonE07&show_icons=true&theme=github_dark">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinhyeonE07&layout=compact&theme=github_dark">
     </p>
 </footer>
